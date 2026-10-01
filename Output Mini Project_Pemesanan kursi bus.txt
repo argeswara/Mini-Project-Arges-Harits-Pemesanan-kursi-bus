@@ -1,0 +1,92 @@
+Berikut Kursi yang Tersedia: 
+----------------------------------------------------------
+         A   B   C   D
+baris 1 [0] [0] [0] [0] 
+baris 2 [0] [0] [0] [0] 
+baris 3 [0] [0] [0] [0] 
+baris 4 [0] [0] [0] [0] 
+baris 5 [0] [0] [0] [0] 
+baris 6 [0] [0] [0] [0] 
+baris 7 [0] [0] [0] [0] 
+baris 8 [0] [0] [0] [0] 
+----------------------------------------------------------
+SILAHKAN MEMILIH KURSI (KOLOM MENGGUNAKAN HURUF KAPITAL)
+Baris: 1
+Kolom: A
+Anda memilih kursi: A-1
+Harga kursi: 35000
+----------------------------------------------------------
+Ulang Program?(1.yes/2.no): 1
+----------------------------------------------------------
+Berikut Kursi yang Tersedia: 
+----------------------------------------------------------
+         A   B   C   D
+baris 1 [x] [0] [0] [0] 
+baris 2 [0] [0] [0] [0] 
+baris 3 [0] [0] [0] [0] 
+baris 4 [0] [0] [0] [0] 
+baris 5 [0] [0] [0] [0] 
+baris 6 [0] [0] [0] [0] 
+baris 7 [0] [0] [0] [0] 
+baris 8 [0] [0] [0] [0] 
+----------------------------------------------------------
+SILAHKAN MEMILIH KURSI (KOLOM MENGGUNAKAN HURUF KAPITAL)
+Baris: 1
+Kolom: B
+Anda memilih kursi: B-1
+Harga kursi: 30000
+----------------------------------------------------------
+Ulang Program?(1.yes/2.no): 1
+----------------------------------------------------------
+Berikut Kursi yang Tersedia: 
+----------------------------------------------------------
+         A   B   C   D
+baris 1 [x] [x] [0] [0] 
+baris 2 [0] [0] [0] [0] 
+baris 3 [0] [0] [0] [0] 
+baris 4 [0] [0] [0] [0] 
+baris 5 [0] [0] [0] [0] 
+baris 6 [0] [0] [0] [0] 
+baris 7 [0] [0] [0] [0] 
+baris 8 [0] [0] [0] [0] 
+----------------------------------------------------------
+SILAHKAN MEMILIH KURSI (KOLOM MENGGUNAKAN HURUF KAPITAL)
+Baris: 1
+Kolom: A
+KURSI SUDAH TERISI!!
+Berikut Kursi yang Tersedia: 
+----------------------------------------------------------
+         A   B   C   D
+baris 1 [x] [x] [0] [0] 
+baris 2 [0] [0] [0] [0] 
+baris 3 [0] [0] [0] [0] 
+baris 4 [0] [0] [0] [0] 
+baris 5 [0] [0] [0] [0] 
+baris 6 [0] [0] [0] [0] 
+baris 7 [0] [0] [0] [0] 
+baris 8 [0] [0] [0] [0] 
+----------------------------------------------------------
+SILAHKAN MEMILIH KURSI (KOLOM MENGGUNAKAN HURUF KAPITAL)
+Baris: 9
+Kolom: A
+KURSI TIDAK DITEMUKAN!!
+Berikut Kursi yang Tersedia: 
+----------------------------------------------------------
+         A   B   C   D
+baris 1 [x] [x] [0] [0] 
+baris 2 [0] [0] [0] [0] 
+baris 3 [0] [0] [0] [0] 
+baris 4 [0] [0] [0] [0] 
+baris 5 [0] [0] [0] [0] 
+baris 6 [0] [0] [0] [0] 
+baris 7 [0] [0] [0] [0] 
+baris 8 [0] [0] [0] [0] 
+----------------------------------------------------------
+SILAHKAN MEMILIH KURSI (KOLOM MENGGUNAKAN HURUF KAPITAL)
+Baris: 5
+Kolom: B
+Anda memilih kursi: B-5
+Harga kursi: 30000
+----------------------------------------------------------
+Ulang Program?(1.yes/2.no): 0
+----------------------------------------------------------
